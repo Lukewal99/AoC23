@@ -48,10 +48,16 @@ if (task == 1)
 		}
 	}
 }
+
 else if(task == 2)
 {
-	//cry
+	
+
 }
+
+
+
+// 100,000,000 Is too high
 
 Console.WriteLine(lowestLocal);
 sr.Close();

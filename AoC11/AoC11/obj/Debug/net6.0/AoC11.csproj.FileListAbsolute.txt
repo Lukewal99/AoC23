@@ -1,0 +1,15 @@
+C:\Users\lukew\Desktop\AoC23\AoC11\AoC11\bin\Debug\net6.0\AoC11.exe
+C:\Users\lukew\Desktop\AoC23\AoC11\AoC11\bin\Debug\net6.0\AoC11.deps.json
+C:\Users\lukew\Desktop\AoC23\AoC11\AoC11\bin\Debug\net6.0\AoC11.runtimeconfig.json
+C:\Users\lukew\Desktop\AoC23\AoC11\AoC11\bin\Debug\net6.0\AoC11.dll
+C:\Users\lukew\Desktop\AoC23\AoC11\AoC11\bin\Debug\net6.0\AoC11.pdb
+C:\Users\lukew\Desktop\AoC23\AoC11\AoC11\obj\Debug\net6.0\AoC11.csproj.AssemblyReference.cache
+C:\Users\lukew\Desktop\AoC23\AoC11\AoC11\obj\Debug\net6.0\AoC11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukew\Desktop\AoC23\AoC11\AoC11\obj\Debug\net6.0\AoC11.AssemblyInfoInputs.cache
+C:\Users\lukew\Desktop\AoC23\AoC11\AoC11\obj\Debug\net6.0\AoC11.AssemblyInfo.cs
+C:\Users\lukew\Desktop\AoC23\AoC11\AoC11\obj\Debug\net6.0\AoC11.csproj.CoreCompileInputs.cache
+C:\Users\lukew\Desktop\AoC23\AoC11\AoC11\obj\Debug\net6.0\AoC11.dll
+C:\Users\lukew\Desktop\AoC23\AoC11\AoC11\obj\Debug\net6.0\refint\AoC11.dll
+C:\Users\lukew\Desktop\AoC23\AoC11\AoC11\obj\Debug\net6.0\AoC11.pdb
+C:\Users\lukew\Desktop\AoC23\AoC11\AoC11\obj\Debug\net6.0\AoC11.genruntimeconfig.cache
+C:\Users\lukew\Desktop\AoC23\AoC11\AoC11\obj\Debug\net6.0\ref\AoC11.dll

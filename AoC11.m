@@ -1,4 +1,4 @@
-task = 1;
+task = 2;
 
 
 if(task ==1)
@@ -26,7 +26,22 @@ if(task ==1)
 
     writematrix(MATLABInput, 'Advent.csv');
     
+
 elseif(task ==2)
+    % Find and replace all of the "." with "1 " and "#" with "0 "
+    % Import MATLABInput.csv as a Numeric Matrix 
 
+    for i = 1:length(MATLABInput(1,:))
+        if(sum(MATLABInput(:,i) > 0) == length(MATLABInput(:,i)))
+            MATLABInput(:,i) = MATLABInput(:,i) + 10
+        end
+    end
 
+    for i = 1:length(MATLABInput(:,1))
+        if(sum(MATLABInput(i,:) > 0) == length(MATLABInput(i,:)))
+            MATLABInput(i,:) = MATLABInput(i,:) + 100
+        end
+    end
+    
+    writematrix(MATLABInput, 'Advent.csv');
 end
